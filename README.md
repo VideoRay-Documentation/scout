@@ -1,0 +1,2 @@
+# scout
+Operator's Manual
