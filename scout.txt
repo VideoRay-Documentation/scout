@@ -13,10 +13,6 @@
 
 *,Equipment Guide,,equipment_.htm,,,
 
-*,Software Guide,,software_.htm,,,
-
 *,Operations Guide,,operations_.htm,,,
 
 *,Maintenance Guide,,maintenance_.htm,,,
-
-*,Compatibility Guide,,compatibility_.htm,,,
